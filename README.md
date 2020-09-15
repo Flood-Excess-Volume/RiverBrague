@@ -19,12 +19,7 @@ See also technical reports:
 
 See ```ReadMe.txt``` for source code instructions. Note that user's working directory must be specified: ```setwd("...")```.
 
-#### Data analysis: from depth to discharge to FEV
+#### FEV calculations and cost-effectiveness analysis: Giving-Room-to-the-River (15 m)
 
-![3panelGRR](Output/FEVgrr-W15m.png)
-
-
-#### Cost-effectiveness analysis: Giving-Room-to-the-River (15 m)
-
-![squarelakebrague](Output/Lake.png)
-
+![3panelGRR](Output/FEVgrr-W15m.png) | ![squarelakebrague](Output/Lake.png)
+:-------------------------:|:-------------------------:
