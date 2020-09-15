@@ -17,15 +17,14 @@ See also technical reports:
 
 ### Code and output 
 
-See ```ReadMe.txt``` for source code instructions. Note that user's correct working directory must be specified: ```setwd("...")```.
+See ```ReadMe.txt``` for source code instructions. Note that user's working directory must be specified: ```setwd("...")```.
 
 #### Data analysis: from depth to discharge to FEV
 
-![3panel](Output/FEV_CURRENT.png) | ![3panelGRR](Output/FEVgrr-W15m.png)
-:-------------------------:|:-------------------------:
+![3panelGRR](Output/FEVgrr-W15m.png)
 
 
 #### Cost-effectiveness analysis: Giving-Room-to-the-River (15 m)
+
 ![squarelakebrague](Output/Lake.png)
 
-*Caption: ...*
